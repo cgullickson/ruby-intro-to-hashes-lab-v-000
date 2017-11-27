@@ -14,9 +14,9 @@ end
 def monopoly
 	monopoly = {
 		railroads: {
-			pieces: 4
-			names: {}
-			rent_in_dollars: {}
+			pieces: 4,
+			names: {},
+			rent_in_dollars: {},
 		}
 	}
 
